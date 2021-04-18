@@ -1,0 +1,16 @@
+n: 0 p: 1 s: -1
+n: 1 p: 5 s: 2
+n: 2 p: 5 s: -1
+n: 3 p: 6 s: 4
+n: 4 p: 6 s: -1
+n: 5 p: 7 s: 6
+n: 6 p: 7 s: -1
+n: 7 p: -1 s: -1
+nodo leído: 0
+nodo leído: 1
+nodo leído: 2
+nodo leído: 5
+nodo leído: 3
+nodo leído: 4
+nodo leído: 6
+nodo leído: 7
